@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" modified="2023-05-05T20:12:03.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="pZak3nfFxiz6KOUtZOlH" version="21.2.9" type="github">
+  <diagram name="Page-1" id="1e2Yp8dXQKtSM8bF64JS">
+    <mxGraphModel dx="311" dy="185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qijZXeMsfFAl-49ScJeg-1" value="Jira" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="360" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qijZXeMsfFAl-49ScJeg-2" value="GitHub" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="355" y="315" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qijZXeMsfFAl-49ScJeg-3" value="Data Collection Script&lt;br&gt;(Python)" style="rounded=1;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="140" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
