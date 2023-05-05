@@ -1,0 +1,10 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Chou
+    given-names: Yi-Hung
+    orcid: https://orcid.org/0000-0001-8537-0200
+title: "Collaboration Network Architecture and Qualitative Results"
+version: 1.0.0
+doi: 
+date-released: 2023.05.05
