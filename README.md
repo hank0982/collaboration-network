@@ -1,11 +1,12 @@
 
 # Collaborative Development Experience
 ## Qualitative Question Sample
-We structured our motivational case study to address the following questions during each interview session:
+We conducted semi-structured interview to address the following questions at research site.
 
 - Q1: What is the day-to-day work routine for the specific role at SAP?
 - Q2: What challenges did they encounter?
 - Q3: What are the existing solutions or workarounds for these challenges?
+
 ## Qualitative Results:
 ### Q1: Collaboration Persona
 Group goals:  Continuously refine and deliver product increments to customers while improving the collaboration process
