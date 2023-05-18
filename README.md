@@ -22,7 +22,7 @@ Collaboration needs:
 - Maintain awareness of group and sprint goals, blockers, and status across time zones and scrum teams.
 - Obtain teams' overview to evaluate current process, practices, and artifact quality
 
-### Q2: Qualitative Codes
+### Q2: We summarized 6 challenges through thematic analysis
 | Codes                            | Definitions                                                           |
 |----------------------------------|-----------------------------------------------------------------------|
 | Challenges: Management           | Challenges relevant to managing one or multiple teams                 |
@@ -31,6 +31,14 @@ Collaboration needs:
 | Challenges: Hybrid/Remote work   | Challenges relevant to working in hybrid and distributed teams        |
 | Challenges: Time zone difficulty | Challenges relevant to working with teams across different time zones |
 | Challenges: Unclear roadmap      | Challenges relevant to unclear future direction                       |
+
+### Q3: Solutions, workarounds, or wishes
+Each challenge has its counter solution. Here we provide a sample of solutions to Challenges: Management.
+| Codes | Sub-Codes |
+|-------|-----------|
+| Solution: Management |  Workaround: Invite experts to coach young team |
+|  | Wish: people in scrum team can raise their challenges more proactively |
+|  | Wish: Predictable progress |
 
 ## Implementation Details
 ### Implementation
