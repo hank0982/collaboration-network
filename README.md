@@ -33,7 +33,7 @@ Collaboration needs:
 | Challenges: Unclear roadmap      | Challenges relevant to unclear future direction                       |
 
 ### Q3: Solutions, workarounds, or wishes
-Each challenge has its counter solution. Here we provide a sample of solutions to Challenges: Management.
+Each challenge has its counter solutions, workarounds or wishes. Here we provide a sample of solutions to Challenges: Management.
 | Codes | Sub-Codes |
 |-------|-----------|
 | Solution: Management |  Workaround: Invite experts to coach young team |
