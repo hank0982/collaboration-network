@@ -17,7 +17,7 @@ Group work style:
 - Developers work on artifact and communicate blockers, status, and needs with all the other roles
 - Scrum masters work with developers to understand their sprint goal, status, manage and remove the blockers, escalate if necessary
 - Product managers work with clients, designers, and developers to ensure everyone is aligned with the same goal
-- 
+
 Collaboration needs: 
 - Maintain awareness of group and sprint goals, blockers, and status across time zones and scrum teams.
 - Obtain teams' overview to evaluate current process, practices, and artifact quality
