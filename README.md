@@ -10,7 +10,7 @@ We conducted semi-structured interview to address the following questions at res
 - Q3: What are the existing solutions or workarounds for these challenges?
 
 ## Qualitative Results:
-### To summarized the results obtained from Q1, we use Collaboration Persona [1] to describe the research site.
+### To summarize the results obtained from Q1, we use Collaboration Persona [1] to describe the research site.
 Group goals:  Continuously refine and deliver product increments to customers while improving the collaboration process
 
 Group work style: 
