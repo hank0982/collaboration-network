@@ -24,7 +24,7 @@ Collaboration needs:
 - Maintain awareness of group and sprint goals, blockers, and status across time zones and scrum teams.
 - Obtain teams' overview to evaluate current process, practices, and artifact quality
 
-### Q2: We summarized 6 challenges through thematic analysis
+### Q2: We summarized 7 challenges through thematic analysis
 | Codes                            | Definitions                                                           |
 |----------------------------------|-----------------------------------------------------------------------|
 | Challenges: Management           | Challenges relevant to managing one or multiple teams                 |
@@ -33,7 +33,7 @@ Collaboration needs:
 | Challenges: Hybrid/Remote work   | Challenges relevant to working in hybrid and distributed teams        |
 | Challenges: Time zone difficulty | Challenges relevant to working with teams across different time zones |
 | Challenges: Unclear roadmap      | Challenges relevant to unclear future direction                       |
-
+| Challenges: Information Retrieval| Challenges relevant to organize, find, or link information across multiple channels |
 ### Q3: Solutions, workarounds, or wishes
 Each challenge has its counter solutions, workarounds or wishes. Here we provide a sample of solutions to Challenges: Management.
 | Codes | Sub-Codes |
